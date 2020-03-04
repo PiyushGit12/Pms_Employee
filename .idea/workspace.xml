@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hr_verificient-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -51,10 +51,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="108" key="FileChooserDialogImpl" timestamp="1583007177584">
+    <state x="463" y="108" key="FileChooserDialogImpl" timestamp="1583233842414">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583007177584" />
+    <state x="463" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583233842414" />
     <state x="551" y="262" key="Github.ShareDialog" timestamp="1582841116443">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -67,17 +67,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="393" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583015850846" />
-    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1583006961552">
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1583231579408">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583006961552" />
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583231579408" />
     <state x="391" y="167" key="git4idea.merge.GitPullDialog" timestamp="1583015741080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="167" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1583015741080" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582837248168">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583018444724">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582837248168" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583018444723" />
   </component>
 </project>

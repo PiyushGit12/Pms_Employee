@@ -2,7 +2,7 @@ from django.shortcuts import render,redirect
 from . import views
 from django.views import View
 from django.contrib.auth.models import User
-from .models import EmpDaTa
+from .models import EmpDaTa, Emp_details
 from django.http import HttpResponse
 # Create your views here.
 
@@ -50,3 +50,8 @@ class Save_emp_data(View):
 
           return HttpResponse("Employee registration failed")
 
+class DisplayEmpData(View):
+    def get(self, request):
+       All_emp_detalis =  Emp_details.objects.all()
+       store = len(All_emp_detalis)
+       return render(request,)
