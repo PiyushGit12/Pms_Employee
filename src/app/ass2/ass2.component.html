@@ -1,0 +1,18 @@
+<p *ngIf="flag==true">Flag is {{flag}}</p>
+<ng-template #elseblock>
+    <p>Flag is {{flag}}</p>
+</ng-template>
+<button (click)="toggleFlag()">Toogle Flag</button>
+
+
+
+
+
+
+
+
+
+<h1>Input Your Name</h1>
+<input type="text" placeholder="Enter Your Name" [(ngModel)]="name" (oninput)="buttonFlagStats()">
+<p>Your Name is {{name}}</p>
+<button [disabled]="name.length==0" (click)="resetNameButton()">Reset Name</button>
